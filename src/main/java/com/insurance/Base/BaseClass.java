@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 
 
 public class BaseClass {
-    public static WebDriver driver;
+    public static  WebDriver driver;
     ReadConfig readConfig = new ReadConfig();
 
 
